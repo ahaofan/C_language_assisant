@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/text">
+        <file alias="question_bank.txt">question_bank.txt</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file alias="icon.ico">vc.ico</file>
+    </qresource>
+</RCC>
